@@ -22,3 +22,7 @@ class Boat(Vehicle):
     def move(self):
         print("Sailing ⛵")  # Boat-specific implementation of move()
 
+# Example usage (Uncomment to test)
+# vehicles = [Car(), Plane(), Boat()]
+# for v in vehicles:
+#     v.move()  # Calls each class's move() method, demonstrating polymorphism

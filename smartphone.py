@@ -61,3 +61,13 @@ class GamingPhone(Smartphone):
         super().show_info()  # Call the parent method to show common info
         print(f"Cooling System: {self.cooling_system}")  # Add gaming phone-specific info
 
+# Example usage (Uncomment below lines to test)
+# phone1 = Smartphone("Samsung", "Galaxy S21", 128)
+# phone1.turn_on()
+# phone1.show_info()
+# phone1.turn_off()
+
+# gaming_phone = GamingPhone("ASUS", "ROG Phone 5", 256, "Advanced Liquid Cooling")
+# gaming_phone.turn_on()
+# gaming_phone.activate_cooling()
+# gaming_phone.show_info()
