@@ -63,7 +63,7 @@ These projects provide a solid foundation for understanding how to design flexib
 
 ## Author
 
-Samuel (Sam) – Your Python Assistant
+Samuel (Sam)
 
 ---
 
